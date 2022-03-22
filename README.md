@@ -11,6 +11,12 @@ A website that offers fitness training services.
 https://magoofy.github.io/run-buddy/
 
 ## Contribution
+
 Made with ❤️ by Afi Akau
 
 ### ©️2019 Run Buddy, Inc 
+=======
+Made with <3 by Afi Akau
+
+## ©️2019 Run Buddy, Inc
+
