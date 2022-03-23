@@ -15,8 +15,5 @@ https://magoofy.github.io/run-buddy/
 Made with ❤️ by Afi Akau
 
 ### ©️2019 Run Buddy, Inc 
-=======
-Made with <3 by Afi Akau
 
-## ©️2019 Run Buddy, Inc
 
